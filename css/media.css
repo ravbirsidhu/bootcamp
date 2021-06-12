@@ -1,0 +1,53 @@
+body
+
+{
+background-color: lightsalmon;
+
+
+}
+
+nav
+{
+    width: 90%;
+height: 400px;
+
+    display: flex;
+justify-content: space-evenly;
+
+}
+
+ul
+{
+    
+border: 2px solid green;
+display: flex;
+justify-content: space-evenly;
+flex-grow: 1;
+}
+
+
+ul li
+{
+display:inline;
+
+}
+
+#section
+{
+
+COLOR: red;
+text-align: center;
+}
+
+
+@media (min-width:400px) and (max-width: 800px)
+
+{
+h1
+{
+color: green;
+
+
+}
+
+}

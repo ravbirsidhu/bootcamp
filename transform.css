@@ -1,0 +1,26 @@
+h1:nth-of-type(even)
+{ 
+    text-align:center;
+    width: 15%;
+    height: 10%;
+background-color: orchid;
+border-color:peru;
+border-size: 5px;
+border-style: solid;
+transform: rotate(50deg);
+
+}
+
+h1:nth-of-type(odd)
+{ 
+    text-align:center;
+    width: 15%;
+    height: 10%;
+background-color: orchid;
+border-color:peru;
+border-size: 5px;
+border-style: solid;
+transform: rotate(-50deg);
+
+}
+

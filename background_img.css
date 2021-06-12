@@ -1,0 +1,15 @@
+h1
+{
+
+    text-transform: uppercase;
+  border-bottom: 4px solid gray;
+  padding:10px 2%;
+}
+
+img
+{
+width: 30%;
+margin: calc(10%/6);
+
+
+}

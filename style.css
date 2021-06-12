@@ -1,0 +1,83 @@
+
+
+h1
+{
+    text-align-last: center;
+    text-decoration-line:underline;
+    color: blue; 
+    width: 150px;
+}
+
+h2
+{
+    text-align-last: center;
+ text-decoration-line: underline;
+    color: blue;
+}
+
+h3
+{
+
+    color: rgb(200 100 200);
+}
+
+p 
+{
+color:grey ;
+text-align: left; 
+font-size:15px ;
+width: 150px;
+height: 150px;
+} 
+
+.search
+ {
+
+    font-size: 25px;
+    color:#ffadad;
+
+}
+
+button:hover
+{
+
+    background-color: #6b705c;
+    color: #cb997e;
+}
+
+
+a:hover
+{
+    text-decoration:none;
+   color:#f77f00;
+}
+
+
+
+button:active
+{
+
+background-color: lawngreen;
+
+}
+
+p:nth-of-type(2n)
+{
+
+background-color: #b7b7a4;
+
+}
+
+P::first-line
+{  
+
+    color:magenta;
+
+}
+
+p::selection
+{
+
+background-color: maroon;
+
+}

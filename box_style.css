@@ -1,0 +1,71 @@
+body
+
+{
+      margin:20px;
+}
+
+
+div
+
+{
+color:maroon;
+
+width: 20%;
+height: 60%;
+border-style: double;
+background-color: #fad2e1;
+border-radius: 5%;
+padding: 20px;
+ padding-bottom: 4px;
+ margin: 20px;
+display:inline-block;
+}
+
+#one
+{ 
+    width: 20%;
+    height: 80%;
+    border-width: 5px;
+ border-style: solid;
+    background-color: mediumseagreen;
+    border-radius: 10% 20%;
+    border-left-style: dashed;
+    padding: 40px;
+    displa:inline-block;
+}
+
+
+
+ button 
+{
+
+Padding: 5px 15px;
+background-color: #003049;
+size: 8px;
+border-radius: 10%;
+}
+ 
+button:hover
+{
+padding: 30px;
+background-color: #fde2e4;
+border-radius:30%;
+
+
+}
+
+
+section
+{
+    position: absolute;
+    right: 0;
+    background-color: olivedrab;
+width: 20%;
+height: 50%;
+border:5px;
+border-style: solid;
+border-color: navy;
+display: inline-block;
+
+}
+
